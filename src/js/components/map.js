@@ -1,4 +1,5 @@
 function showMap(){
+	let testing = 'testing!';
 var map = null;
 var myOptions = {
 	
@@ -10,5 +11,7 @@ var myOptions = {
   map = new google.maps.Map(document.getElementById("map"), myOptions);
 
 }
+
+export default showMap
 
 
