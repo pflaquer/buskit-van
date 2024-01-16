@@ -4,7 +4,7 @@ import settings from "./views/settings.js";
 
 const routes = {
     "/": { title: "Home", render: home },
-    "/geo": { title: "Maps", render: geo },
+    "/geo": { title: "Geo", render: geo },
     "/settings": { title: "Contact", render: settings },
 };
 
