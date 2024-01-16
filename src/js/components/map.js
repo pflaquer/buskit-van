@@ -1,4 +1,4 @@
-export default(){
+export default()=>{
 let testing = 'testing!';
 var map = null;
 var myOptions = {
