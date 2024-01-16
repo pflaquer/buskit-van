@@ -1,11 +1,11 @@
 import home from "./views/home.js";
-import about from "./views/about.js";
-import contact from "./views/contact.js";
+import about from "./views/geo.js";
+import contact from "./views/settings.js";
 
 const routes = {
     "/": { title: "Home", render: home },
-    "/about": { title: "About", render: about },
-    "/contact": { title: "Contact", render: contact },
+    "/map": { title: "Maps", render: geo },
+    "/settings": { title: "Contact", render: settings },
 };
 
 function router() {
