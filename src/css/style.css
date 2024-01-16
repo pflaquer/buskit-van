@@ -19,7 +19,7 @@
 body {
     color: var(--neutral);
     padding: 1rem clamp(1.5rem, 6vw, 3rem);
-    background-color: var(--primary);
+    background: linear-gradient(to right, #a1ffce, #faffd1);
 }
 
 nav {
