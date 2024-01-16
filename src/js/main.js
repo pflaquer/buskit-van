@@ -1,6 +1,6 @@
 import home from "./views/home.js";
-import about from "./views/geo.js";
-import contact from "./views/settings.js";
+import geo from "./views/geo.js";
+import settings from "./views/settings.js";
 
 const routes = {
     "/": { title: "Home", render: home },
