@@ -30,7 +30,7 @@ nav {
 
 nav a {
     margin-right: .75em;
-    color: var(--accent);
+    color: var(--primary);
 }
 
 main {
