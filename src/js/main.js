@@ -4,7 +4,7 @@ import contact from "./views/settings.js";
 
 const routes = {
     "/": { title: "Home", render: home },
-    "/map": { title: "Maps", render: geo },
+    "/geo": { title: "Maps", render: geo },
     "/settings": { title: "Contact", render: settings },
 };
 
