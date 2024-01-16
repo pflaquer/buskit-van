@@ -1,5 +1,5 @@
-export function showMap(){
-	let testing = 'testing!';
+export default (){
+let testing = 'testing!';
 var map = null;
 var myOptions = {
 	
