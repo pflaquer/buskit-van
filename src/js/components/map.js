@@ -1,4 +1,4 @@
-function showMap(){
+export function showMap(){
 	let testing = 'testing!';
 var map = null;
 var myOptions = {
@@ -12,6 +12,6 @@ var myOptions = {
 
 }
 
-export default showMap
+
 
 
